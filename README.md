@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ⚡ I'm a passionate C developer
+
 🌱 I’m currently learning Rust
 
 
