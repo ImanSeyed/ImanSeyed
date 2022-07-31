@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ My name is Iman and I'm a Linux system programmer.
+⚡ I'm a Linux system programmer and an IoT researcher.
 
 <p>
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
