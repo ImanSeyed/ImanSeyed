@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Rust-red?logo=Rust&style=for-the-badge" alt="Rust">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzd245&theme=gotham&hide=html,vim script)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzd245&theme=gotham&hide=html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
 
 [![mzd245's github stats](https://github-readme-stats.vercel.app/api?username=mzd245&show_icons=true&theme=gotham)](https://github.com/mzd245/github-readme-stats)
 
