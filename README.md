@@ -1,9 +1,9 @@
 ## About Me 
-🙃 Hey, I'm Iman!
+Hey, I'm Iman!
 
-🛠️ I'm currently working on [`riftrace`](https://github.com/ImanSeyed/riftrace), a Rust library for diving into the Linux kernel's Ftrace. I love crafting software for embedded Linux systems, especially when it involves network programming. I'm also tinkering with [`tcp-tun`](https://github.com/ImanSeyed/tcp-tun), implementing TCP RFC and IPv4 RFC on a tun device in Linux using C.
+🛠️ I'm working on [`riftrace`](https://github.com/ImanSeyed/riftrace), a Rust library for the Linux kernel's Ftrace. I'm also tinkering with [`tcp-tun`](https://github.com/ImanSeyed/tcp-tun), implementing TCP RFC and IPv4 RFC on a tun device in Linux.
 
-📚 Beyond coding, I'm into exploring quirky and sometimes eerie RFCs.
+📚 Beyond coding, I'm into exploring eerie RFCs.
 
 ## Languages
 <p>
