@@ -1,20 +1,4 @@
-## About Me 
-Hey, I'm Iman!
-
-🛠️ I'm working on [`riftrace`](https://github.com/ImanSeyed/riftrace), a Rust library for the Linux kernel's Ftrace. I'm also tinkering with [`tcp-tun`](https://github.com/ImanSeyed/tcp-tun), implementing TCP RFC and IPv4 RFC on a tun device in Linux.
-
-📚 Beyond coding, I'm into exploring eerie RFCs.
-
-## Languages
-<p>
-    <img src="https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/-C++-007DCC?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/-Rust-red?logo=Rust&style=for-the-badge" alt="Rust">
-    <img src="https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-</p>
-
-## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanSeyed&theme=vision-friendly-dark&hide=html,vim%20script)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Iman Seyed's github stats](https://github-readme-stats.vercel.app/api?username=ImanSeyed&show_icons=true&theme=vision-friendly-dark)](https://github.com/ImanSeyed/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImanSeyed&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com?user=ImanSeyed&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700&hide_current_streak=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImanSeyed&layout=donut&langs_count=4&theme=transparent&hide_border=true&hide_title=true&hide=vim%20script)
+![](https://github-readme-stats.vercel.app/api?username=ImanSeyed&theme=transparent&show_icons=true&include_all_commits=true&hide_rank=true&hide=contribs&hide_title=true&hide_border=true)
